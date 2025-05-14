@@ -16,3 +16,10 @@ I used Arduino’s Integrated Development Environment (IDE) to program the Ardui
 - Made variables to track the current round the player is on as well as the max round (which is set to 100).
 - Set constant variables, such as how long an LED should flash for and the delay after a button press.
 - Split the different parts of the game into different functions, starting with the setup, which initializes the LED pins and generates a random seed for the game. 
+
+# Pictures:
+## The breadboard:
+![Simon Says Breadboard](https://raw.githubusercontent.com/russabejr/SimonSaysArduino/refs/heads/main/breadboard.jpg)
+
+## The arduino:
+![Simon Says Arduino](https://raw.githubusercontent.com/russabejr/SimonSaysArduino/refs/heads/main/arduino.jpg)
